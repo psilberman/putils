@@ -1,5 +1,4 @@
 DICT: Set Dict Item Normally  48.86 usec/pass  0.05 usec/item
-
 DICT: Set Dict Item using setdefault 120.00 usec/pass  0.12 usec/item
 
 DICT: Set only if key doesnt exist. Use KeyError exception to determine existence  49.54 usec/pass  0.05 usec/item
