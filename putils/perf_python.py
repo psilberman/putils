@@ -20,7 +20,7 @@ def show_results(result):
     return s
 
 def print_save(s, fd):
-    fd.write("%s\n" % s)
+    fd.write("%s\r\n" % s)
     print(s)
 
 def main():
